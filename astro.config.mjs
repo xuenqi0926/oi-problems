@@ -24,10 +24,10 @@ import { remarkExcerpt } from "./src/plugins/remark-excerpt.js";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-copy-button.js";
 
-// https://astro.build/config
+	// https://astro.build/config
 export default defineConfig({
-	site: "https://fuwari.vercel.app/",
-	base: "/",
+	site: "https://EEQQ-xeq.github.io/oi-problems/",
+	base: "/oi-problems/",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
