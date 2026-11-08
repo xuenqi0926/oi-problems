@@ -1,9 +1,5 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于
+本站基于 [Fuwari](https://github.com/saicaca/fuwari) 主题搭建，用于整理与分享我的 OI / 算法竞赛训练题单与比赛记录。
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> ### 关于内容
+> 这里汇集了训练题单、比赛题解与学习笔记，全部开源，欢迎参考与交流。
