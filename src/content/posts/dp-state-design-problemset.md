@@ -15,8 +15,7 @@ category: 题单
 | 5   | P14460 【MX-S10-T1】『FeOI-4』寻雾启示 | 洛谷  |     [P14460 【MX-S10-T1】『FeOI-4』寻雾启示 - 洛谷](https://www.luogu.com.cn/problem/P14460)     | 普及+/提高- | 无      |
 | 6   |      P4544 Buying Feed G       | 洛谷  |    [P4544 [USACO10NOV] Buying Feed G - 洛谷](https://www.luogu.com.cn/problem/P4544)     |      提高 | 无      |
 | 7   |      P10755 Netrpeljivost      | 洛谷  |    [P10755 [COI 2023] Netrpeljivost - 洛谷](https://www.luogu.com.cn/problem/P10755)     |      提高 | 无      |
-| 8   |     CF21D Traveling Graph      | CF  |      [Problem - 21D - Codeforces](https://codeforces.com/problemset/problem/21/D)      |      提高 | 无      |
-| 9   |            P4170 涂色            | 洛谷  |           [P4170 [CQOI2007] 涂色 - 洛谷](https://www.luogu.com.cn/problem/P4170)           | 提高+/省选- | 2400   |
+| 8   |     CF21D Traveling Graph      | CF  |      [Problem - 21D - Codeforces](https://codeforces.com/problemset/problem/21/D)      |      提高 | 2400   |
+| 9   |            P4170 涂色            | 洛谷  |           [P4170 [CQOI2007] 涂色 - 洛谷](https://www.luogu.com.cn/problem/P4170)           | 提高+/省选- | 无      |
 | 10  |    AT_arc074_c RGB Sequence    | AT  |     [E - RGB Sequence](https://atcoder.jp/contests/arc074/tasks/arc074_c?lang=en)      | 省选/NOI- | 无      |
-
 题解：[DP 状态设计 - xuenqi 的博客](https://xuenqi0926.github.io/blog/posts/dp-state-design/)
